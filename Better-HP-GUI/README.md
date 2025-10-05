@@ -42,6 +42,8 @@ ver1.0.2
 ・アイコン追加
 ・packmcmeta更新
 ・バージョン対応
+ver1.0.3
+README等の更新
 <p align="right">
 <img src="https://github.com/nexusource/O-SourceArsenal/blob/main/Better-HP-GUI/icon.png?raw=true" alt="discord.js" /></a>
 </p>
