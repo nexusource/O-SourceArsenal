@@ -2,7 +2,7 @@
 MinecraftでHP可視化するデータパック。プレイヤー付近でHP変動があったエンティティの名前と体力情報をアクションバーに表示する。ﾄﾃﾓﾍﾞﾝﾘ!
 
 ## ❱ はじめに【README】
-https://github.com/nemonowa/Better_HP_GUI
+https://github.com/nexusource/O-SourceArsenal/tree/main/Better-HP-GUI%EF%BC%9ADatapack%20-%20by%20nemo%EF%BD%9CNEXUS/README.md
 
 ## ❱ 説明【Description】
 HP可視化。プレイヤー付近でHP変動があったエンティティの名前と体力情報をアクションバーに表示するデータパック。最大体力と現在体力が表示される。金ハートの追加体力もオーバーフローとして表示される。堅牢な機構だから1.12以降のデタパが使えるすべてのバージョンで動く。
@@ -24,7 +24,7 @@ HP可視化。プレイヤー付近でHP変動があったエンティティの�
 
 ## ❱ 対応窓口【Support】
 サポートは下記Discordサーバーで行います。
-https://discord.gg/ax2HpwXmjx
+* https://discord.gg/ax2HpwXmjx
 
 ## ❱ 利用規約【Terms & Conditions】
 https://docs.google.com/document/d/1U3Bq5qwXf6alOduejbvxDDh64Ph9zVrA7f2W5GyEvvc
