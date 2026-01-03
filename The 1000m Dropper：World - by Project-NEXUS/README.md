@@ -31,13 +31,13 @@
 
 ## ❱ 対応窓口【Support】
 サポートは下記Discordサーバーで行います。
-https://discord.gg/gVnS4Za674
+* https://discord.gg/gVnS4Za674
 
 
 ## ❱ 利用規約【Terms & Conditions】
 利用規約等（実況歓迎、転載禁止）
-https://discord.com/channels/1105771730380795944/1231486786228846592/1231532509632663572
+* https://discord.com/channels/1105771730380795944/1231486786228846592/1231532509632663572
 
 
 ## ❱ 更新履歴【ChangeLog】
-https://discord.com/channels/1105771730380795944/1105771731089625200
+* https://discord.com/channels/1105771730380795944/1105771731089625200
