@@ -1,5 +1,5 @@
 # [⚓｜𝕋𝕙𝕖 𝟙𝟘𝟘𝟘𝕞 𝔻𝕣𝕠𝕡𝕡𝕖𝕣](https://github.com/nexusource/O-SourceArsenal/tree/main/The%201000m%20Dropper%EF%BC%9AWorld%20-%20by%20Project-NEXUS)
-説明：生き残って下を目指すMinecraftのドロッパー。高度1000mを駆け抜けろ！
+生き残って下を目指すMinecraftのドロッパー。高度1000mを駆け抜けろ！
 * Break through the limits! Survive and dive deep!!
 
 ## ❱ 導入【Introduction】
@@ -13,7 +13,7 @@
 
 
 ## ❱ 概要【Information】
-[![nexusource]([https://raw.githubusercontent.com/nemonowa/nemonowa.github.io/refs/heads/main/banner.png](https://raw.githubusercontent.com/nexusource/O-SourceArsenal/refs/heads/main/The%201000m%20Dropper%EF%BC%9AWorld%20-%20by%20Project-NEXUS/gallery/banner.png))](https://nexusource.github.io)
+[![nexusource](https://raw.githubusercontent.com/nexusource/O-SourceArsenal/refs/heads/main/The%201000m%20Dropper%EF%BC%9AWorld%20-%20by%20Project-NEXUS/gallery/banner.png)](https://nexusource.github.io)
 [![Discord](https://img.shields.io/discord/1233036571243188296?color=5865f2&label=&logo=discord&logoColor=ffffff)](https://discord.gg/nqx8esTwzS)
 [![Twitter/X](https://img.shields.io/badge/X-@yourhandle-000000?logo=x&logoColor=ffffff)](https://x.com/yourhandle)
 [![YouTube](https://img.shields.io/badge/YouTube-チャンネルを見る-ff0000?logo=youtube&logoColor=ffffff)](https://www.youtube.com/@あなたのチャンネルID)
