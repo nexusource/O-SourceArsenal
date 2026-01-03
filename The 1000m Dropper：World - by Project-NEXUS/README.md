@@ -7,7 +7,7 @@
 2. すべて展開（解凍）
 3. savesフォルダに配置するとマインクラフトに読み込まれます。
 ```
-%userprofile%\AppData\Roaming\.minecraft\saves\
+%userprofile%\AppData\Roaming\.minecraft\saves\<PlaceHere!!>
 ```
 正常にワールドが開始されるとチャット欄に通知が出ます。
 
