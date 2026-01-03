@@ -7,7 +7,7 @@ Lore: Break through the limits! Survive and dive deep!!
 
 
 ## ❱ 導入【Introduction】
-[world.zip](https://github.com/nexusource/O-SourceArsenal/blob/main/The%201000m%20Dropper%EF%BC%9AWorld%20-%20by%20Project-NEXUS/dummy.zip?raw=true)をダウンロードして解凍、savesフォルダに配置するとマインクラフトに読み込まれます。
+[world.zip](https://github.com/nexusource/O-SourceArsenal/releases/download/T1mD/The1000mDropper.zip)をダウンロードして解凍、savesフォルダに配置するとマインクラフトに読み込まれます。
 正常にワールドが開始されるとチャット欄に通知が出ます。
 
 ```
