@@ -1,6 +1,6 @@
 # ⚓｜𝕋𝕙𝕖 𝟙𝟘𝟘𝟘𝕞 𝔻𝕣𝕠𝕡𝕡𝕖𝕣
 説明：生き残って下を目指すMinecraftのドロッパー。高度1000mを駆け抜けろ！
-* Lore: Break through the limits! Survive and dive deep!!
+* Break through the limits! Survive and dive deep!!
 
 ## [はじめに【README】](https://github.com/nexusource/O-SourceArsenal/tree/main/The%201000m%20Dropper%EF%BC%9AWorld%20-%20by%20Project-NEXUS)
 初めにお読みください。
