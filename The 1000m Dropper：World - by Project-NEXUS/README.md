@@ -3,7 +3,7 @@
 * Break through the limits! Survive and dive deep!!
 
 ## ❱ 導入【Introduction】
-1. [![Download](https://github.com/nexusource/O-SourceArsenal/releases/download/T1mD/The1000mDropper.zip)]
+1. [Download](https://github.com/nexusource/O-SourceArsenal/releases/download/T1mD/The1000mDropper.zip)
 2. すべて展開（解凍）
 3. savesフォルダに配置するとマインクラフトに読み込まれます。
 ```
