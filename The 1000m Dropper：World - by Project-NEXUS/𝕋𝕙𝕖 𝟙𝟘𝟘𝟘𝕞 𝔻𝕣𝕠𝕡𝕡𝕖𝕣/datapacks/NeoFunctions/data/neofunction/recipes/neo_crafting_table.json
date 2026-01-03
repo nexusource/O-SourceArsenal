@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:planks"
+        },
+        {
+            "tag": "minecraft:planks"
+        },
+        {
+            "tag": "minecraft:planks"
+        },
+        {
+            "tag": "minecraft:planks"
+        }
+    ],
+    "result": {
+        "item": "minecraft:structure_block",
+        "count": 1
+    }
+}

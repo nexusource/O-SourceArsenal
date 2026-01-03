@@ -1,0 +1,1 @@
+execute at @s[tag=leader] as @e[distance=2..32,team=red,tag=!boss,limit=10] facing entity @s feet facing ^ ^ ^-1 positioned as @s run tp @s ^ ^ ^0.08 ~ ~

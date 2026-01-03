@@ -1,0 +1,28 @@
+スケジュールペアレンツクロック
+→tick検知でいつでも満たすが、一度達成するとクールダウンのように指定した時間まで発火しない
+  "parent": "neofunction:.clock/1s",
+でclockの進捗を指定すれば使える
+
+
+
+周期指定単体クロック
+→特定のタイミングになったとき発火
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:time_check",
+            "value": 1,
+            "period": 100
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:test"
+  }
+}

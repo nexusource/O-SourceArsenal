@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "player": {},
+        "item": {
+          "nbt": "{CustomModelData:673}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/shot_crossbow/673/main"
+  }
+}

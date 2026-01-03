@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "player": {}
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/bred_animals/.all"
+  }
+}

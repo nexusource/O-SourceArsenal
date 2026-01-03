@@ -1,0 +1,14 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "両手の呪い I",
+        "color": "red",
+        "bold": false,
+        "italic": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:snowball"
+        },
+        {
+            "item": "minecraft:snowball"
+        },
+        {
+            "item": "minecraft:snowball"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "result": {
+        "item": "minecraft:structure_block",
+        "count": 1
+    }
+}

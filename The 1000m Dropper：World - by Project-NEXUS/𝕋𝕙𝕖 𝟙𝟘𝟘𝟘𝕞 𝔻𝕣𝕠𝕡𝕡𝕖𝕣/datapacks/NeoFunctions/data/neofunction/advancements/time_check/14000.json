@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:time_check",
+            "value": 14000,
+            "period": 24000
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/time_check/14000"
+  }
+}

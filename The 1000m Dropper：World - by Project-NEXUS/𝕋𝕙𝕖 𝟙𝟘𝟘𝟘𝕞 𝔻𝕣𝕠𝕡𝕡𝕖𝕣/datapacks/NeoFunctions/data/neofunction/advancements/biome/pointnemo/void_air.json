@@ -1,0 +1,19 @@
+{
+  "parent": "neofunction:.clock/5s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "neodimension:pointnemo"
+          }
+        },
+        "block": "minecraft:void_air"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/biome/pointnemo/void_air"
+  }
+}

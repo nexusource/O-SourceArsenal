@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:nether_star"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/inventory_changed/nether_star"
+  }
+}

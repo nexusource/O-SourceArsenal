@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "title": [
+      {
+        "translate": "The 1000m Dropper -The 1000m Dropper-                                                               ",
+        "color": "white",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "条件：指定座標(pos:326)LIVE and DIVE DEEP!!",
+      "color": "white"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "dp:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "dp:give"
+  }
+}

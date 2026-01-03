@@ -1,0 +1,15 @@
+[
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "name": "neo",
+        "amount": 0.15,
+        "operation": "multiply_base",
+        "id": "42c40c23-e5d7-472f-a1c5-2f9293f56910",
+        "slot": "mainhand"
+      }
+    ]
+  }
+]

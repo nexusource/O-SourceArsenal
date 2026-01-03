@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:dolphins_grace": {}
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/effects_changed/dolphins_grace"
+  }
+}

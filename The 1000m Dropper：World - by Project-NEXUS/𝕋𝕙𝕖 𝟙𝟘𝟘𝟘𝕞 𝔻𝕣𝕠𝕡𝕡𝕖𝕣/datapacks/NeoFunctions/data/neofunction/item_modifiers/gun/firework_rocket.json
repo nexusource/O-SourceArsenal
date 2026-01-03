@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{ChargedProjectiles:[{id:\"minecraft:firework_rocket\",Count:1b,tag:{Fireworks:{Flight:60b,Explosions:[{Type:0,Flicker:1b,Trail:1b,Colors:[I;16711680],FadeColors:[I;16738810]}]}}}],Charged:1b}"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": "§2Version1.3 §7for §6MC§e1.20.4\n§a§nThe World of Wonders"
+  },
+  "filter": {
+    "block": [
+    {
+      "path": ".*\\.lnk$"
+    },
+      {
+        "namespace": "neofunction",
+        "path": "functions/info.lnk"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancements/.*"
+      }
+    ]
+  }
+}

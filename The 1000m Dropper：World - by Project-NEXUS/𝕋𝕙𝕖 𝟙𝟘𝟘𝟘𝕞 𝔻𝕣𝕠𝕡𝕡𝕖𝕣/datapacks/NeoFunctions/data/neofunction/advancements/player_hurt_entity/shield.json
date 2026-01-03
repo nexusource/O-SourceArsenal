@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "equipment": {
+            "offhand": {
+              "items": [
+                "minecraft:shield"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/player_hurt_entity/shield"
+  }
+}

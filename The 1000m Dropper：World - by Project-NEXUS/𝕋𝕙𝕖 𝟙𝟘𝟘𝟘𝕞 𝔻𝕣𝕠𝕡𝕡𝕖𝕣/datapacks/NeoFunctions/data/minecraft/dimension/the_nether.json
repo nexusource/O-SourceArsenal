@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:the_nether",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 4
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 4
+        },
+        {
+          "block": "minecraft:moss_block",
+          "height": 1
+        }
+      ],
+      "structure_overrides": "minecraft:empty"
+    }
+  }
+}

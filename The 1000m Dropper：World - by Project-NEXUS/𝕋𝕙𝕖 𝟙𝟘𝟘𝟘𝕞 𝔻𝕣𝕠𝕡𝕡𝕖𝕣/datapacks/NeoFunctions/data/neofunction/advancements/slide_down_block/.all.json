@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:slide_down_block"
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/slide_down_block/.all"
+  }
+}

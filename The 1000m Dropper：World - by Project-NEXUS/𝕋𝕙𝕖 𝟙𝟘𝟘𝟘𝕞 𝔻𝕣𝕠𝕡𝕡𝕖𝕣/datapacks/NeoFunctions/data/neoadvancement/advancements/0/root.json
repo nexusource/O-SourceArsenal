@@ -1,0 +1,145 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:compass"
+    },
+    "title": [
+      {
+        "translate": "総合目標 -Complete The Monument-                         ",
+        "color": "white",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "§5§k|§1§k|§9§k|§a§k|§e§k|§6§k|§c§k|§f§l 7³【アルクス・トリニティ】 §c§k|§6§k|§e§k|§a§k|§9§k|§1§k|§5§k|§r",
+      "color": "light_purple",
+      "underlined": true,
+      "bold": true,
+      "italic": false,
+      "extra": [
+        {
+          "translate": "\n記憶：それは旅の究極目的。或いは虹色に輝く時空の錨鎖。21対の異界の扉にして、三位一体の接続の鍵。其の全てを蒐集せし刻、星辰は収束し、世界は進化する。収斂の極北に扉は開き、エンディングが訪れる。",
+          "color": "white",
+          "underlined": false,
+          "bold": false,
+          "extra": [
+            {
+              "translate": "\nクリア条件：7³を完成させてエンディング見る。",
+          "color": "gray",
+          "bold": false,
+          "underlined": false,
+          "bold": false,
+              "extra": [
+                {
+                  "text": "\nクリア報酬：§5§kx§1§kx§9§kx§a§kx§e§kx§6§kx§c§kx§r",
+                  "color": "gray"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "background": "minecraft:textures/entity/end_portal.png",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/1": true
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/2": true
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/3": true
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/4": true
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/5": true
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/6": true
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "neoadvancement:0/7": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neoadvancement:start/test"
+  }
+}

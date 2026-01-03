@@ -1,0 +1,5 @@
+https://gravitowl.github.io/plotter.html
+https://chencmd.github.io/Shapes-Generator/
+
+地面に固定
+#/execute as @a facing ~ ~ ~ run function neofunction:asset/makeup/circle/6m

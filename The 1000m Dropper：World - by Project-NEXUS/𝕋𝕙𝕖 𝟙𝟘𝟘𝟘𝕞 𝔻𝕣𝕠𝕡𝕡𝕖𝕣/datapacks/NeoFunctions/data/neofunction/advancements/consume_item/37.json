@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:dried_kelp"
+          ],
+          "nbt": "{CustomModelData:37}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/consume_item/37"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "fktool:biome/in_taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "fktool:biome/in_snow"
+    }
+  ]
+}

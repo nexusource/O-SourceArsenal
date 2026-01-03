@@ -1,0 +1,25 @@
+{
+  "parent": "neofunction:.clock/60s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "neodimension:parkour"
+              }
+            }
+          }
+        ],
+        "block": "minecraft:water"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/biome/parkour/water"
+  }
+}

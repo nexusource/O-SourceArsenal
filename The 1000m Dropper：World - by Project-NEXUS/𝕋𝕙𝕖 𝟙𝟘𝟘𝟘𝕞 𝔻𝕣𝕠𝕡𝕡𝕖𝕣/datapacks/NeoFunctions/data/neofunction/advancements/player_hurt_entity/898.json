@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "nbt": "{SelectedItem:{tag:{CustomModelData:898}}}"
+        },
+        "entity": {
+          "equipment": {
+            "head": {
+              "items": [
+                "minecraft:air"
+              ]
+            },
+            "chest": {
+              "items": [
+                "minecraft:air"
+              ]
+            },
+            "legs": {
+              "items": [
+                "minecraft:air"
+              ]
+            },
+            "feet": {
+              "items": [
+                "minecraft:air"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/player_hurt_entity/898"
+  }
+}

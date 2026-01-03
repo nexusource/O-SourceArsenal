@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "equipment": {
+                "head": {
+                  "nbt": "{CustomModelData:840}"
+                },
+                "chest": {
+                  "nbt": "{CustomModelData:841}"
+                },
+                "legs": {
+                  "nbt": "{CustomModelData:842}"
+                },
+                "feet": {
+                  "nbt": "{CustomModelData:843}"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/inventory_changed/840"
+  }
+}

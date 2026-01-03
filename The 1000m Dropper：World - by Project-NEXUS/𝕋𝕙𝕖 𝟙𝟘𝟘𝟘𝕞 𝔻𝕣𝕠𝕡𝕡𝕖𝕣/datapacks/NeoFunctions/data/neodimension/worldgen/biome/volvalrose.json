@@ -1,0 +1,99 @@
+{
+  "temperature": 2,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16744448,
+    "fog_color": 16755801,
+    "water_color": 16712194,
+    "water_fog_color": 16423580,
+    "grass_color": 9783808,
+    "foliage_color": 16755801,
+    "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+    "mood_sound": {
+      "sound": "minecraft:ambient.basalt_deltas.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "additions_sound": {
+      "sound": "minecraft:ambient.basalt_deltas.additions",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "minecraft:music.nether.basalt_deltas",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.118093334
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:frog",
+        "weight": 20,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:fox",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:camel",
+        "weight": 60,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:strider",
+        "weight": 60,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:hoglin",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:blaze",
+        "weight": 60,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:phantom",
+        "weight": 40,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:magma_cube",
+        "weight": 100,
+        "minCount": 2,
+        "maxCount": 5
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

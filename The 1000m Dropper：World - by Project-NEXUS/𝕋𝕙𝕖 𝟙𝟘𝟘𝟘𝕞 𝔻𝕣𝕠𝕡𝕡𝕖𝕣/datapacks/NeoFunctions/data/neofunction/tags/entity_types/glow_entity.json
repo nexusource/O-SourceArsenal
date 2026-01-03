@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:item_frame",
+    "minecraft:glow_item_frame",
+    "minecraft:spectral_arrow",
+    "minecraft:blaze",
+    "minecraft:magma_cube",
+    "minecraft:glow_squid",
+    "minecraft:end_crystal"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "function": "minecraft:set_enchantments",
+    "enchantments": {
+      "minecraft:aqua_affinity": 10,
+      "minecraft:bane_of_arthropods": 20,
+      "minecraft:binding_curse": 30,
+      "minecraft:blast_protection": 40,
+      "minecraft:channeling": 50
+    }
+  }

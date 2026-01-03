@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/item_used_on_block/.all"
+  }
+}

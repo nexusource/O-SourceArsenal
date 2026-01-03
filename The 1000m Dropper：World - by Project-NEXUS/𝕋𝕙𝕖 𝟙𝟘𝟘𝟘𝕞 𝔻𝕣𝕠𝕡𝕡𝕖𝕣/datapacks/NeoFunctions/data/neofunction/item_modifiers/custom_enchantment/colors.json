@@ -1,0 +1,14 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "虹の加護 I",
+        "color": "gray",
+        "bold": false,
+        "italic": false
+      }
+    ]
+  }
+]

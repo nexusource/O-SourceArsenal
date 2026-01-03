@@ -1,0 +1,23 @@
+{
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        {
+          "text": "score: ",
+          "color": "white",
+          "italic": false
+        },
+        {
+          "score": {
+            "name": "@s",
+            "objective": "test"
+          },
+          "color": "white",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    ],
+    "replace": true
+  }

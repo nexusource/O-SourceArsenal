@@ -1,0 +1,150 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{CustomModelData:0,CanPlaceOn:[\"minecraft:lodestone\"],Unbreakable:1b,display:{Lore:['{\"text\":\"魂の共鳴 enchantment.level.1\",\"color\":\"gray\",\"bold\":false,\"italic\":false}','[{\"keybind\":\"key.attack\",\"color\":\"white\",\"bold\":true,\"italic\":false},{\"text\":\" > \",\"color\":\"dark_gray\",\"bold\":false,\"italic\":false},{\"text\":\"攻撃対象を解析\",\"color\":\"white\",\"bold\":false,\"italic\":false}]','[{\"keybind\":\"key.use\",\"color\":\"white\",\"bold\":true,\"italic\":false},{\"text\":\" > \",\"color\":\"dark_gray\",\"bold\":false,\"italic\":false},{\"text\":\"ステータスの表示\",\"color\":\"white\",\"bold\":false,\"italic\":false}]','[{\"keybind\":\"key.playerlist\",\"color\":\"white\",\"bold\":true,\"italic\":false},{\"text\":\" > \",\"color\":\"dark_gray\",\"bold\":false,\"italic\":false},{\"text\":\"現在のレベルを確認できる\",\"color\":\"white\",\"bold\":false,\"italic\":false}]','[{\"keybind\":\"key.advancements\",\"color\":\"white\",\"bold\":true,\"italic\":false},{\"text\":\" > \",\"color\":\"dark_gray\",\"bold\":false,\"italic\":false},{\"text\":\"カスタム進捗画面を開く\",\"color\":\"white\",\"bold\":false,\"italic\":false}]','[{\"keybind\":\"key.drop\",\"color\":\"white\",\"bold\":true,\"italic\":false},{\"text\":\" > \",\"color\":\"dark_gray\",\"bold\":false,\"italic\":false},{\"text\":\"情報更新およびチャットナビゲート\",\"color\":\"white\",\"bold\":false,\"italic\":false}]','{\"text\":\"Lore:その針は北を指さない。目指すものの在処を指し示す。\",\"bold\":false,\"italic\":true}'],Name:'[{\"text\":\"|\",\"color\":\"#FFFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#7FFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF7F\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#7FFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#FFFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\" 運命\",\"color\":\"#FEEEED\",\"bold\":false,\"italic\":false,\"underlined\":false,\"obfuscated\":false},{\"text\":\"䂖\",\"color\":\"#FFC6AB\",\"bold\":false,\"italic\":false,\"underlined\":false,\"obfuscated\":false},{\"text\":\"の羅✯盤 \",\"color\":\"#FEEEED\",\"bold\":false,\"italic\":false,\"underlined\":false,\"obfuscated\":false},{\"text\":\"|\",\"color\":\"#FFFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#7FFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF7F\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#00FF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#7FFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true},{\"text\":\"|\",\"color\":\"#FFFF00\",\"bold\":true,\"italic\":false,\"obfuscated\":true}]'}}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "世界線座標 > [The World of Wonders]",
+        "color": "#fef4f4",
+        "bold": false,
+        "italic": false
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "現在次元 > [",
+        "color": "#fef4f4",
+        "bold": false,
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "Dimension",
+            "entity": "@s",
+            "color": "#fef4f4",
+            "bold": false,
+            "italic": false,
+            "extra": [
+              {
+                "text": "]",
+                "bold": false,
+                "italic": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "接続座標 > [",
+        "color": "#fef4f4",
+        "bold": false,
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "SpawnX",
+            "entity": "@s",
+            "color": "#fef4f4",
+            "bold": false,
+            "italic": false,
+            "extra": [
+              {
+                "text": ",",
+                "color": "#fef4f4",
+                "bold": false,
+                "italic": false,
+                "extra": [
+                  {
+                    "nbt": "SpawnY",
+                    "entity": "@s",
+                    "color": "#fef4f4",
+                    "bold": false,
+                    "italic": false,
+                    "extra": [
+                      {
+                        "text": ",",
+                        "color": "#fef4f4",
+                        "bold": false,
+                        "italic": false,
+                        "extra": [
+                          {
+                            "nbt": "SpawnX",
+                            "entity": "@s",
+                            "bold": false,
+                            "italic": false,
+                            "extra": [
+                              {
+                                "text": "]",
+                                "color": "#fef4f4",
+                                "bold": false,
+                                "italic": false
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "現在座標 > ",
+        "color": "#fef4f4",
+        "bold": false,
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "Pos",
+            "entity": "@s",
+            "color": "#fef4f4",
+            "bold": false,
+            "italic": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "汎用一意識別子 > ",
+        "color": "#fef4f4",
+        "bold": false,
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "UUID",
+            "entity": "@s",
+            "color": "#fef4f4",
+            "bold": false,
+            "italic": false
+          }
+        ]
+      }
+    ]
+  }
+]

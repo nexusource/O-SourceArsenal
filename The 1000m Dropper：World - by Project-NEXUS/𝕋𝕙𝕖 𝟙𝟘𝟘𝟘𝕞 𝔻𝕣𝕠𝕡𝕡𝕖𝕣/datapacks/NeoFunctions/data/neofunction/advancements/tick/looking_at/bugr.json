@@ -1,0 +1,21 @@
+{
+  "parent": "neofunction:.clock/10s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "looking_at": {
+              "nbt": "{Tags:[BUG-R]}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/tick/looking_at/bugr"
+  }
+}

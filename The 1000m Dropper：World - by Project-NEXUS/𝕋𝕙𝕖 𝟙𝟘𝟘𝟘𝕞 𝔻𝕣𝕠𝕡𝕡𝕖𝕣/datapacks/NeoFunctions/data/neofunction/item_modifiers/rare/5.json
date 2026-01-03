@@ -1,0 +1,49 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Super:",
+        "color": "dark_purple",
+        "bold": true,
+        "italic": false,
+        "extra": [
+          {
+            "text": "✯",
+            "color": "#ffe33b",
+            "italic": false,
+            "extra": [
+              {
+                "text": "✯",
+                "color": "#ffcc38",
+                "extra": [
+                  {
+                    "text": "✯",
+                    "color": "#ffac34",
+                    "extra": [
+                      {
+                        "text": "✯",
+                        "color": "#ff8330",
+                        "extra": [
+                          {
+                            "text": "✯",
+                            "color": "#ff602c"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

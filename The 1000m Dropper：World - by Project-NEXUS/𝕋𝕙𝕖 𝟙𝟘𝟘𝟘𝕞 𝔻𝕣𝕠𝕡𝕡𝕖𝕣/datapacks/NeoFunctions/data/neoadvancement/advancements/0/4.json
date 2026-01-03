@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:green_stained_glass",
+      "nbt": "{SkullOwner:{Id:[I;1,0,59,1],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2EzOWRjZDNmOTQ5MDU5M2E3OWUyNmM1YzlkYmU4ODY4OTVhNDcwYjgxOGRiZDU1OWE3YmIzZDc0MmUyMWExYiJ9fX0=\"}]}}}"
+    },
+    "title": [
+      {
+        "translate": "純魂焔の緑晶鍵 -Green Crystal-                                 ",
+        "color": "green",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "§kxx§r Arcus Ark Crystal Key §kxx§r\n",
+      "bold": true,
+      "color": "green",
+      "italic": false,
+      "underlined": true,
+      "extra": [
+        {
+          "translate": "説明：それは緑色に燃えゆく希望の純炎。強力無比なキーアイテムであり、世界に散らばり、海や山、国や城、個や物に取り込まれ、超常の力の源となっている。",
+          "color": "white",
+          "bold": false,
+          "underlined": false,
+          "extra": [
+            {
+              "translate": "\n条件：【純魂焔の緑晶鍵】を起動する。\n報酬：Rune of Green Crystal Monument",
+              "color": "gray",
+              "bold": false,
+              "underlined": false
+            }
+          ]
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "neoadvancement:0/3",
+  "criteria": {
+    "dummy": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

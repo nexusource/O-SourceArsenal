@@ -1,0 +1,19 @@
+{
+  "parent": "neofunction:.clock/10s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "neodimension:parkour"
+          }
+        },
+        "block": "minecraft:end_gateway"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/biome/parkour/end_gateway"
+  }
+}

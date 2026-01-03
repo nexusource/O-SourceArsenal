@@ -1,0 +1,61 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Ultimate:",
+        "color": "dark_red",
+        "bold": true,
+        "italic": false,
+        "extra": [
+          {
+            "text": "✯",
+            "color": "#ffe33b",
+            "italic": false,
+            "extra": [
+              {
+                "text": "✯",
+                "color": "#ffcc38",
+                "extra": [
+                  {
+                    "text": "✯",
+                    "color": "#ffac34",
+                    "extra": [
+                      {
+                        "text": "✯",
+                        "color": "#ff8330",
+                        "extra": [
+                          {
+                            "text": "✯",
+                            "color": "#ff602c",
+                            "extra": [
+                              {
+                                "text": "✯",
+                                "color": "#FF4328",
+                                "extra": [
+                                  {
+                                    "text": "✯",
+                                    "color": "#ff3427"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

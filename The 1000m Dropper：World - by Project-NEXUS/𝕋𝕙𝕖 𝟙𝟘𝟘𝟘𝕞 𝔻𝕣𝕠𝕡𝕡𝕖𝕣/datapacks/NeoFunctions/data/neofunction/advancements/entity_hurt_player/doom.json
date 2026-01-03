@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "nbt": "{Tags:[doom]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/entity_hurt_player/doom"
+  }
+}

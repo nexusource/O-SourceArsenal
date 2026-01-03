@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:structure_void"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/enter_block/structure_void"
+  }
+}

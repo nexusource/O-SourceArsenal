@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map",
+      "nbt": "{display:{MapColor:12627877},CustomModelData:502}"
+    },
+    "title": {
+      "text": "§e§k-§5T§dhe§51§d000§5mD§dropper§e§k-§r                   ",
+      "color": "white",
+      "bold": true,
+      "italic": false
+    },
+    "description": {
+      "text": "条件：【𝕋𝕙𝕖 𝟙𝟘𝟘𝟘𝕞 𝔻𝕣𝕠𝕡𝕡𝕖𝕣】に到達する。\n報酬：経験値×64\n説明：LIVE and DIVE DEEP!!",
+      "color": "white"
+    },
+    "background": "minecraft:textures/block/white_shulker_box.png",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

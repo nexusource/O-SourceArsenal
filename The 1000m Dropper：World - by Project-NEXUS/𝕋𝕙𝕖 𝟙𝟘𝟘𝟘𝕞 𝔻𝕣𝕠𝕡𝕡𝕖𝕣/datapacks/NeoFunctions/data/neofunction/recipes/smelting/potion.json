@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:potion"
+    },
+    "result": "minecraft:structure_block",
+    "experience": 0,
+    "cookingtime": 400
+}

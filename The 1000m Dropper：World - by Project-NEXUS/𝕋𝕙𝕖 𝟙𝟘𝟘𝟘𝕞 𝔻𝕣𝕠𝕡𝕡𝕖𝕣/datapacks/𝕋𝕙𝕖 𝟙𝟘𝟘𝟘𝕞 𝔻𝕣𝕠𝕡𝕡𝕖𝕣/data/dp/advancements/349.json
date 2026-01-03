@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "title": [
+      {
+        "translate": "The Eldorado Dropper -The Eldorado Dropper-                                                               ",
+        "color": "white",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "条件：指定座標(pos:349)https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%89%E3%83%A9%E3%83%BC%E3%83%89",
+      "color": "white"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "dp:348",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "dp:give"
+  }
+}

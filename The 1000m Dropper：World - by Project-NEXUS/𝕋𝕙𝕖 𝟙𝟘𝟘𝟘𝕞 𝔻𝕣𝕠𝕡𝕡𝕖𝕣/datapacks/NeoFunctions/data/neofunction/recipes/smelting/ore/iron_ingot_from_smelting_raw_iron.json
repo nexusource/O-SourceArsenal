@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1200,
+  "experience": 0,
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "minecraft:raw_iron"
+  },
+  "result": "minecraft:gray_dye"
+}

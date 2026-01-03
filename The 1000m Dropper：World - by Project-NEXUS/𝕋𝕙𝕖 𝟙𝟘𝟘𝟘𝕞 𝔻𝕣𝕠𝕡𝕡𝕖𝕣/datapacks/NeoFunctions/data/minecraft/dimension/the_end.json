@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:the_end",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "neofunction:view",
+      "lakes": false,
+      "features": false,
+      "layers": [],
+      "structure_overrides": "minecraft:empty"
+    }
+  }
+}

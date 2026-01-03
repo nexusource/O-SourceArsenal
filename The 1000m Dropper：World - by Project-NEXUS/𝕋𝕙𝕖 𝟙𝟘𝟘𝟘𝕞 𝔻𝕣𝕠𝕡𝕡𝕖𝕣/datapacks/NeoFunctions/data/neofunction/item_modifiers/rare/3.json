@@ -1,0 +1,37 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Legacy:",
+        "color": "dark_aqua",
+        "bold": true,
+        "italic": false,
+        "extra": [
+          {
+            "text": "✯",
+            "color": "#ffe33b",
+            "italic": false,
+            "extra": [
+              {
+                "text": "✯",
+                "color": "#ffcc38",
+                "extra": [
+                  {
+                    "text": "✯",
+                    "color": "#ffac34"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

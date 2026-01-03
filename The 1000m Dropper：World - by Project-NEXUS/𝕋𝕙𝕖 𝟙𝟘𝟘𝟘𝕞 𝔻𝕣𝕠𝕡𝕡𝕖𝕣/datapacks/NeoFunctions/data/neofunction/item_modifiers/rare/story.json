@@ -1,0 +1,39 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Story:",
+        "color": "green",
+        "bold": true,
+        "italic": false,
+        "extra": [
+          {
+            "text": "*",
+            "color": "#ffe33b",
+            "obfuscated": true,
+            "extra": [
+              {
+                "text": "*",
+                "color": "#ffcc38",
+                "obfuscated": true,
+                "extra": [
+                  {
+                    "text": "*",
+                    "color": "#ffac34",
+                    "obfuscated": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

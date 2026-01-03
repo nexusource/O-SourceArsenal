@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "player": {},
+        "item": {}
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/shot_crossbow/.all"
+  }
+}

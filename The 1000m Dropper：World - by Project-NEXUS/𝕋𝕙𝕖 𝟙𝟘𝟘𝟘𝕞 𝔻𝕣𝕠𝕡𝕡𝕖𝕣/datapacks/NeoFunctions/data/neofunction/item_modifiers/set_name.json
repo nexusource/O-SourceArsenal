@@ -1,0 +1,10 @@
+{
+  "function": "minecraft:set_name",
+  "entity": "this",
+  "name": {
+    "text": "勇者の剣",
+    "color": "white",
+    "bold": true,
+    "italic": false
+  }
+}

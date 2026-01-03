@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "player": {
+      "stats": [
+        {
+          "type": "minecraft:mined",
+          "stat": "minecraft:spawner"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "parent": "neofunction:.clock/5s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "offhand": {
+                  "tag": "minecraft:compasses"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/tick/item/compass"
+  }
+}

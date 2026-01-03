@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1200,
+  "experience": 0,
+  "group": "redstone",
+  "ingredient": {
+    "item": "minecraft:redstone_ore"
+  },
+  "result": "minecraft:gray_dye"
+}

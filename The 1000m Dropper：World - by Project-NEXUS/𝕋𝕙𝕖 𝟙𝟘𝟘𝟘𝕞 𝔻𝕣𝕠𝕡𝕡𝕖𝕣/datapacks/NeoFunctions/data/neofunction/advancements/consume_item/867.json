@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{CustomModelData:867}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/consume_item/867"
+  }
+}

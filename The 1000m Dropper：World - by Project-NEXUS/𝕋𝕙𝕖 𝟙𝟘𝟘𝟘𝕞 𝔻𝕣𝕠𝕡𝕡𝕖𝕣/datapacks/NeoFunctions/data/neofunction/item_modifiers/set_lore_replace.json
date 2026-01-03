@@ -1,0 +1,19 @@
+{
+	  "function": "minecraft:set_lore",
+	  "entity": "this",
+	  "lore": [
+		    {
+			      "text": "Gods:",
+			      "color": "gold",
+			      "bold": false",
+			      "italic": false    
+		},
+		     {
+			      "text": "☆",
+			      "color": "#ffe33b",
+			      "bold": false",
+			      "italic": false    
+		}  
+	],
+	  "replace": true
+}

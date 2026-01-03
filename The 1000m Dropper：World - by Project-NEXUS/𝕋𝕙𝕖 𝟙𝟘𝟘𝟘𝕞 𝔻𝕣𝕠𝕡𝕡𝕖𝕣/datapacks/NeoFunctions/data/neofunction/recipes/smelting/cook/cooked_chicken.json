@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1200,
+  "experience": 0,
+  "ingredient": {
+    "item": "minecraft:chicken"
+  },
+  "result": "minecraft:gray_dye"
+}

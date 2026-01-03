@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:fishing_rod"
+          ],
+          "nbt": "{CustomModelData:371}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/fishing_rod_hooked/371"
+  }
+}

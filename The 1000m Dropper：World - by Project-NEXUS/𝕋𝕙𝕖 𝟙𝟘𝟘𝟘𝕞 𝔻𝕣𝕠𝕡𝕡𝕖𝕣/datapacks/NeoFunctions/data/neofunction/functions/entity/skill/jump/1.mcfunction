@@ -1,0 +1,1 @@
+data merge entity @s {Motion:[0d,0.1d,0d]}

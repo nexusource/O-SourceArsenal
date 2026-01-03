@@ -1,0 +1,6 @@
+{
+  "exhaustion": 4.0,
+  "message_id": "満腹度調整",
+  "effects": "hurt",
+  "scaling": "when_caused_by_living_non_player"
+}

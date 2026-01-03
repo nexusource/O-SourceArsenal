@@ -1,0 +1,19 @@
+{
+  "parent": "neofunction:.clock/10s",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "neodimension:pointnemo"
+          }
+        },
+        "block": "minecraft:end_gateway"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/biome/pointnemo/end_gateway"
+  }
+}

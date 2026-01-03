@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/recipe_crafted/.all"
+  }
+}

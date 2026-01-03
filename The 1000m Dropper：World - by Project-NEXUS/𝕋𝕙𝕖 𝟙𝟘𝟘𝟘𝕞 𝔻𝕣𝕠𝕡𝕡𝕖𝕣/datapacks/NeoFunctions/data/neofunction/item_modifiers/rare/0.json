@@ -1,0 +1,18 @@
+[
+{
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Normal:",
+        "color": "white",
+        "bold": true,
+        "italic": false
+      }
+    ]
+  }
+]

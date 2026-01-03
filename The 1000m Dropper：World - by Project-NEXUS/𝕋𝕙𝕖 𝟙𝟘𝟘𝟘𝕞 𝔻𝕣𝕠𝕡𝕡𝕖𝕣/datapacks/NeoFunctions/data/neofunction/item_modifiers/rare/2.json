@@ -1,0 +1,31 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{check:1}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Rare:",
+        "color": "aqua",
+        "bold": true,
+        "italic": false,
+        "extra": [
+          {
+            "text": "✯",
+            "color": "#ffe33b",
+            "italic": false,
+            "extra": [
+              {
+                "text": "✯",
+                "color": "#ffcc38"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

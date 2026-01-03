@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed"
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/effects_changed/.all"
+  }
+}

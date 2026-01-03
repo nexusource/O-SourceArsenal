@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{display:{Name:'{\"text\":\"<o/\",\"bold\":true}'},gun:1,ChargedProjectiles:[{},{id:\"minecraft:arrow\",Count:1b},{}],Charged:1b}"
+  }
+]

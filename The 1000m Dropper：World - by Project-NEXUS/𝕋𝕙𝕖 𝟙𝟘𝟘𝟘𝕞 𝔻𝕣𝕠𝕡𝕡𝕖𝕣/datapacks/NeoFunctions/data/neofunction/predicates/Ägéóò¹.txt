@@ -1,0 +1,4 @@
+#使い方
+neofunction:time_check/night
+夜間(20:00～4:00)を検知する
+/execute if predicate neofunction:time_check/night run say a

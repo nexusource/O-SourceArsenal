@@ -1,0 +1,9 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{PortalCooldown:1,Tags:[\"mob\"]}"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+https://sayanosasa.com/e/block-tags-dict-3
+
+
+
+enderman_holdable
+・これに含まれるブロックはエンダーマンが持ち上げることができる
+
+
+logs_that_burn
+・logsタグに含まれる
+
+
+soul_fire_base_blocks
+・これに含まれるブロックの上に付けられた炎は魂の炎になる
+

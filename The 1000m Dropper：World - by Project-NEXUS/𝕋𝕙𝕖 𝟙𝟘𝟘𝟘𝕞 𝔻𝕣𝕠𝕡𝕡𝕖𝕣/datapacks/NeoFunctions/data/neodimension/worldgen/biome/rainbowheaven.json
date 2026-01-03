@@ -1,0 +1,68 @@
+{
+  "temperature": 2,
+  "downfall": 1,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 3076079,
+    "fog_color": 2089150,
+    "water_color": 16726527,
+    "water_fog_color": 16726527,
+    "grass_color": 16776960,
+    "foliage_color": 16776960,
+    "ambient_sound": "minecraft:block.chorus_flower.death",
+    "mood_sound": {
+      "sound": "minecraft:block.chorus_flower.death",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "additions_sound": {
+      "sound": "minecraft:block.chorus_flower.death",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "minecraft:block.chorus_flower.death",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:glow_squid_ink"
+      },
+      "probability": 0.0005
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:evoker",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:vex",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 8
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 1,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

@@ -1,0 +1,10 @@
+{
+	"values":[
+		"minecraft:glass",
+		"minecraft:tinted_glass",
+		"minecraft:glass_pane",
+		"minecraft:tinted_glass_pane",
+		"#neofunction:stained_glass",
+		"#neofunction:stained_glass_pane"
+	]
+}

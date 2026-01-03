@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "neofunction:smelting/potion"
+      }
+    }
+  },
+  "rewards": {
+    "function": "neofunction:system/adv/recipe_crafted/potion"
+  }
+}
