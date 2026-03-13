@@ -17,7 +17,7 @@
 ```
 
 ## 導入【Introduction】  
-1. 配布サイトから「[豊穣の大自然島セレスタフェスタ.zip](https://nemonowa.github.io/404)」をダウンロード！
+1. 配布サイトから「[豊穣の大自然島セレスタフェスタ.zip](https://github.com/nexusource/O-SourceArsenal/releases/tag/twow)」をダウンロード！
 2. 解凍して下記のPATHに配置。
 3. Minecraft1.20.4で起動して冒険開始！
 ```Path
@@ -37,6 +37,6 @@
 Project-NEXUS - by 亜空開発機構
 
 ## Download  
-[__＞＞今すぐ冒険を始める！＜＜__](https://nemonowa.github.io/404)
+[__＞＞今すぐ冒険を始める！＜＜__]([https://nemonowa.github.io/404](https://github.com/nexusource/O-SourceArsenal/releases/tag/twow))
 
 (2024/08/24)
