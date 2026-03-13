@@ -23,6 +23,9 @@
 ```Path
 %userprofile%\AppData\Roaming\.minecraft\saves\<world>
 ```
+（以下任意）
+4. resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！
+5. Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！
 
 ## 原題【OriginalTitle】  
 𝐓𝐇𝐄 𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐖𝐎𝐍𝐃𝐄𝐑𝐒
