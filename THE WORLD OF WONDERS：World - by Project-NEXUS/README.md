@@ -38,7 +38,7 @@ https://discord.gg/ax2HpwXmjx
 https://docs.google.com/document/d/1U3Bq5qwXf6alOduejbvxDDh64Ph9zVrA7f2W5GyEvvc
 
 ## ❱ 更新履歴【ChangeLog】
-
+https://discord.com/channels/1233036571243188296/1363604094895521944
 
 
 ## ❱ おまけ【Downloadはよ】
