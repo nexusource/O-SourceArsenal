@@ -1,4 +1,4 @@
-# 🍀｜豊穣の大自然島 -CerestaFesta-
+# [🍀｜豊穣の大自然島 -CerestaFesta-](https://github.com/nexusource/O-SourceArsenal/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/README.md)
 説明：神秘の島を巡るMinecraftアクションRPG配布マッププロジェクト。
 
 ## 序章【Prologue】  
