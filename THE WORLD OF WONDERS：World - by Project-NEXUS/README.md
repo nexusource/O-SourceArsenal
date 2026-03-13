@@ -25,7 +25,7 @@
 ```
 
 ## 原題【OriginalTitle】  
-The World of Wonders
+𝐓𝐇𝐄 𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐖𝐎𝐍𝐃𝐄𝐑𝐒
 
 ## 作風【Concept Image】  
 神秘の島(Jベルヌ)・天空の城ラピュタ…など
