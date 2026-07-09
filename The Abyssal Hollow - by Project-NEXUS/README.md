@@ -1,9 +1,14 @@
-# [🍀｜不還の深淵虚窟 -The Abyssal Hollow-](https://github.com/nexusource/O-SourceArsenal/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/README.md)
+# [🌑｜不還の深淵虚窟 -AbyssalHollow-](https://github.com/nexusource/O-SourceArsenal/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/README.md)
 説明：奈落の大穴を再現するMinecraft観光配布マップ。
 
 ## 序章【Prologue】  
-神風に誘われて、あなたは神秘の孤島『セレスタフェスタ』に漂着する。どの航海図にもないこの島では女神【セレスタ】が信仰され、独特な文化や魔法体系が息づいているようだ。
-広大な絶景や生態系に触れ、島の遺跡【ダンジョン】に眠る魔法の道具【スペルアイテム】を収集し、未知の魔物【エンティティ】を多様な職業の戦闘技能【スキル】を駆使して未知を切り拓き、祝祭を成功へと導け。
+異空の羅針盤に導かれて、あなたは奈落の大穴『アビサルホロウ』を辿り着く。
+神秘の孤島を穿つ巨大な縦穴。直径約1000m、深さは未知。
+大穴に潜む危険な原生生物たち
+大穴に隠された超常の遺物たち
+奈落の果てに眠るという黄金郷
+それら全ての伝説と未知への憧れを餌に人々を呑み込んできた大穴がある。
+さあ、奈落が[君]を呼んでいる...
 
 ## 情報【Information】  
 ```
@@ -29,7 +34,7 @@
 𝐌𝐀𝐃𝐄 𝐈𝐍 𝐀𝐁𝐘𝐒𝐒
 
 ## 作風【Concept Image】  
-・…など
+地底旅行（Jベルヌ）・センターオブジアース…など
 
 ## 制作【Product Studio】  
 Project-NEXUS - by 亜空開発機構
